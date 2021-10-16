@@ -7,3 +7,5 @@ testing staging
 Testing tassya
 
 testing radivan
+
+apa itu golang
