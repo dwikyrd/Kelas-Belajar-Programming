@@ -12,4 +12,4 @@ Golang adalah bahasa pemrograman yang diketik secara statis dan menghasilkan kod
 
 Golang dihimpun dan ditulis menggunakan bahasa pemrogaman C.
 
-what's is golang radivan
+what's is golang Radivan
