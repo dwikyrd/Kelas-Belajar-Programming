@@ -14,4 +14,4 @@ Golang dihimpun dan ditulis menggunakan bahasa pemrogaman C.
 
 golang dipakai karena sintaknya mudah, menulis kode dengan cepat, dan memiliki dukungan dari google
 
-what's is golang Radivan update
+what's is golang Radivan Update
