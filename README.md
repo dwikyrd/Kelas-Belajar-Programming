@@ -13,3 +13,5 @@ Bahasa program ini dapat digunakan sebagai bahasa backend untuk program apa saja
 1. Website
 2. Mobile
 3. dll
+
+Sumber: https://sekolahkoding.com/belajar/go-lang & https://www.enigmacamp.com/golang-bahasa-pemrograman-backend-yang-sedang-populer-saat-ini/
